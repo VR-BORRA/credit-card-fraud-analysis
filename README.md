@@ -10,11 +10,14 @@ Our team, operating under the name FraudBusters, aims to conduct a comprehensive
 Can we predict the fraud and patterns in the main type of transitory fraud
 -What is the probability of overall fraud (increase or decrease)
 -What is the probability of fraud in distance, storefront, and repeat retailer.
--What is the current trends, patterns of groupings, and future for the following types of fraud
----Repeat Retailer
----Used Chip
----Used Pin Number
----Online Order
+-What is the current trends, patterns of groupings, and future for the following types of fraud:
+Repeat Retailer
+
+Used Chip
+
+Used Pin Number
+
+Online Order
 
 ## Overview
 
