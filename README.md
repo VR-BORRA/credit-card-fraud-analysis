@@ -11,13 +11,14 @@ Can we predict the fraud and patterns in the main type of transitory fraud
 -What is the probability of overall fraud (increase or decrease)
 -What is the probability of fraud in distance, storefront, and repeat retailer.
 -What is the current trends, patterns of groupings, and future for the following types of fraud:
-Repeat Retailer
 
-Used Chip
+1) Repeat Retailer
 
-Used Pin Number
+2) Used Chip
 
-Online Order
+3) Used Pin Number
+
+4) Online Order
 
 ## Overview
 
