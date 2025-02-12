@@ -8,7 +8,7 @@ Our team, operating under the name FraudBusters, aims to conduct a comprehensive
 
 # Research Questions
 Can we predict the chance of fraud?
-What is the frequency of fraud in different instances:
+What is the frequency of fraud in different instances?
 
 Instances of Fraud:
 Fraud at a Distance from victim’s home
