@@ -15,14 +15,6 @@ Decision Tree Model
 Random Forest Classifier
 Fraud from a Repeat Retailer
 
-1) Repeat Retailer
-
-2) Used Chip
-
-3) Used Pin Number
-
-4) Online Order
-
 ## Overview
 
 ## Approach 
