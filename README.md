@@ -13,6 +13,12 @@
     - [Running the Analysis](#Running-the-Analysis)
 - [Overview](#Overview)
 - [Approach](#Approach)
+    - [Confusion Matrix](#Confusion-Matrix)
+        - [Logistic Regression](#Logistic-Regression)
+        - [Random Forest Classifier](#Random-Forest-Classifier)
+        - [Decision Tree](#Decision-Tree)
+        - [KNN](#KNN)
+    - [Accuracy and R2 Comparison across 4 models](#Accuracy-and-R2-Comparison-across-4-models)
 - [References](#References)
 
 
@@ -81,9 +87,46 @@ This project successfully demonstrates the application of machine learning for f
 ## Approach 
 In our fraud prediction project, we adopted a robust ensemble of machine learning models to deliver accurate and reliable results. We began by utilizing K-Nearest Neighbors (KNN) to classify transactions based on proximity, allowing us to capture patterns in data and identify potential fraud. We also employed a Decision Tree Model, which provides clear decision rules, helping us to interpret and understand the classification process. To further enhance prediction accuracy, we incorporated a Random Forest Classifier, an ensemble learning technique that combines multiple decision trees for a more robust and generalized prediction. Additionally, Logistic Regression was used to model the relationship between features and the likelihood of fraud, providing a probabilistic framework. To ensure optimal model performance, we performed Optimization techniques to fine-tune hyperparameters and achieve the best possible results. This comprehensive approach allowed us to leverage the strengths of each algorithm and deliver a strong, well-rounded fraud detection system.
 
+<a name="Confusion Matrix"></a>
 
-### Accuracy and R2 Comparsion across 4 models
-|                | Logistic Regresssion | Random Forest Classifier | Decision Tree      | K Neighbors Classifier (K=5) |
+### Confusion Matrix
+
+<a name="Logistic Regression"></a>
+
+#### Logistic Regression
+
+<figure>
+  <img src="visuals/lr_cf.png" alt="Logistic Confusion Matrix">
+</figure> 
+
+<a name="Random Forest Classifier"></a>
+
+#### Random Forest Classifier
+
+<figure>
+  <img src="visuals/rfc_cf.png" alt="Random Forest Classifier">
+</figure> 
+
+<a name="Decision Tree"></a>
+
+#### Decision Tree
+
+<figure>
+  <img src="visuals/dt_cf.png" alt="Decision Tree">
+</figure> 
+
+<a name="KNN"></a>
+
+#### KNN
+
+<figure>
+  <img src="visuals/knn_cf.png" alt="Decision Tree">
+</figure> 
+
+<a name="Accuracy and R2 Comparison across 4 models"></a>
+
+### Accuracy and R2 Comparison across 4 models
+|                | Logistic Regression | Random Forest Classifier | Decision Tree      | K Neighbors Classifier (K=5) |
 |----------------|----------------------|--------------------------|--------------------|-------------------------------|
 | **Accuracy Score** |       0.95858       |         0.99999         |      0.99999      |            0.99882           |
 | **Score**          |       0.95858       |         0.99999         |      0.99999      |            0.99882           |
