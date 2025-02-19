@@ -48,3 +48,9 @@ References:
 ~ https://chargebacks911.com/credit-card-fraud-statistics/
 
 ~ https://www.security.org/identity-theft/synthetic/
+
+~ https://data.openml.org
+
+~ https://medium.com/
+
+~ http://kaggle.com/
