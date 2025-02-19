@@ -12,6 +12,19 @@ Can we predict the chance of fraud?
 What is the most effective way of calculating the
 probability of fraud?
 
+## Installation/Usage Instructions 
+To run the analysis and explore the dataset, you'll need the following Python libraries installed:
+
+Matplotlib: For generating visualizations such as graphs and plots.
+Pandas: For handling data manipulation and analysis.
+NumPy: For numerical operations, particularly for data cleaning and preprocessing.
+pydotplus
+Skitlearn 
+
+Running the Analysis:
+Download the necessary dataset (available on Kaggle or included in the repository).
+Open the Jupyter notebook or Python script in the analysis/ directory.
+Run the cells in sequence to perform the data analysis and for the ML functions
 ## Overview
 This project successfully demonstrates the application of machine learning for fraud detection. By combining different models and optimizing them, we’ve developed a system that is not only accurate but also capable of handling complex, real-world transaction data. The combination of KNN, Decision Trees, Random Forest, and Logistic Regression, with optimization, has resulted in a powerful and scalable fraud detection tool.
 ## Approach 
