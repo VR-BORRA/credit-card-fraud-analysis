@@ -96,7 +96,7 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 #### Logistic Regression
 
 <figure>
-  <img src="visuals/lr_cf.png" alt="Logistic Confusion Matrix">
+  <img src="visuals/lr_cf.png" alt="Logistic Confusion Matrix" width="550" height="350">
 </figure> 
 
 <a name="Random Forest Classifier"></a>
@@ -104,7 +104,7 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 #### Random Forest Classifier
 
 <figure>
-  <img src="visuals/rfc_cf.png" alt="Random Forest Classifier">
+  <img src="visuals/rfc_cf.png" alt="Random Forest Classifier" width="550" height="350">
 </figure> 
 
 <a name="Decision Tree"></a>
@@ -112,7 +112,7 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 #### Decision Tree
 
 <figure>
-  <img src="visuals/dt_cf.png" alt="Decision Tree">
+  <img src="visuals/dt_cf.png" alt="Decision Tree" width="550" height="350">
 </figure> 
 
 <a name="KNN"></a>
@@ -120,7 +120,7 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 #### KNN
 
 <figure>
-  <img src="visuals/knn_cf.png" alt="Decision Tree">
+  <img src="visuals/knn_cf.png" alt="KNN" width="550" height="350">
 </figure> 
 
 <a name="Accuracy and R2 Comparison across 4 models"></a>
