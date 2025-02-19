@@ -29,9 +29,7 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 | **Score**          |       0.95858       |         0.99999         |      0.99999      |            0.99882           |
 | **R2**             |   0.48440  |    0.99990    | 0.99990 |       0.98536      |
 
-<figure>
-  <img src="visuals\dt_cf.jpg" width="500" height="500" alt="Decision Confusion Matrix">
-</figure>
+
 
 
 References:
