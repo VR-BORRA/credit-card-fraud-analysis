@@ -69,3 +69,9 @@ References:
 ~ https://medium.com/
 
 ~ http://kaggle.com/
+
+~ Chargebacks911.com
+
+~ FBI.gov
+
+~ LexisNexis Risk Solutions
