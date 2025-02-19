@@ -13,7 +13,7 @@ What is the most effective way of calculating the
 probability of fraud?
 
 ## Overview
-
+This project successfully demonstrates the application of machine learning for fraud detection. By combining different models and optimizing them, we’ve developed a system that is not only accurate but also capable of handling complex, real-world transaction data. The combination of KNN, Decision Trees, Random Forest, and Logistic Regression, with optimization, has resulted in a powerful and scalable fraud detection tool.
 ## Approach 
 In our fraud prediction project, we adopted a robust ensemble of machine learning models to deliver accurate and reliable results. We began by utilizing K-Nearest Neighbors (KNN) to classify transactions based on proximity, allowing us to capture patterns in data and identify potential fraud. We also employed a Decision Tree Model, which provides clear decision rules, helping us to interpret and understand the classification process. To further enhance prediction accuracy, we incorporated a Random Forest Classifier, an ensemble learning technique that combines multiple decision trees for a more robust and generalized prediction. Additionally, Logistic Regression was used to model the relationship between features and the likelihood of fraud, providing a probabilistic framework. To ensure optimal model performance, we performed Optimization techniques to fine-tune hyperparameters and achieve the best possible results. This comprehensive approach allowed us to leverage the strengths of each algorithm and deliver a strong, well-rounded fraud detection system.
 ## Findings
