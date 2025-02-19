@@ -8,16 +8,12 @@ Our team, operating under the name FraudBusters, aims to conduct a comprehensive
 
 # Research Questions
 Can we predict the chance of fraud?
-What is the frequency of fraud in different instances?
-
-Instances of Fraud:
-Fraud at a Distance from victim’s home
-
-Fraud from Pin vs. Chip
-
+What is the most effective way of calculating the
+probability of fraud:
+KNN
+Decision Tree Model
+Random Forest Classifier
 Fraud from a Repeat Retailer
-
-Fraud from online order
 
 1) Repeat Retailer
 
