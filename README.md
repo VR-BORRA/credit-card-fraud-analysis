@@ -36,3 +36,10 @@ Fraud from online order
 ## Hypothesis
 
 ## Conclusion
+
+### Accuracy and R2 Comparsion across 4 models
+|                | Logistic Regresssion | Random Forest Classifier | Decision Tree      | K Neighbors Classifier (K=5) |
+|----------------|----------------------|--------------------------|--------------------|-------------------------------|
+| **Accuracy Score** |       0.95858       |         0.99999         |      0.99999      |            0.99882           |
+| **Score**          |       0.95858       |         0.99999         |      0.99999      |            0.99882           |
+| **R2**             |   0.48440  |    0.99990    | 0.99990 |       0.98536      |
