@@ -33,3 +33,18 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 
 
 References:
+~ https://freedomcu.org/financial-fraud/how-to-prevent-financial-fraud/
+
+~ https://www.aarp.org/money/scams-fraud/protecting-yourself-from-criminals/
+
+~ https://www.telusdigital.com/solutions/trust-safety-security/fraud-prevention-solutions?kw=fraud%20prevention%20support&cpn=436317468&&msclkid=cdac892e9f9b1cc8702aee8bc57356e1&utm_source=bing&utm_medium=cpc&utm_campaign=Trust%20%26%20Safety%3EFraud%20Prevention%3EPhrase&utm_term=fraud%20prevention%20support&utm_content=Fraud%20Prevention%20Support%20%7C%20Phrase&gclid=cdac892e9f9b1cc8702aee8bc57356e1&gclsrc=3p.ds
+
+~ https://www.top10.com/id-theft/fraud-protection-comparison?bkw=fraud%20protection&bcampid=458203769&bcamp=IDT%20US%20Fraud%20Bing%20tCPA&bagid=1183076224435466&bag=Fraud%20protection&btarid=kwd-73942654354964:loc-4126&bidm=bp&bnet=o&bd=c&bmobval=0&bt=search&utm_source=bing&utm_medium=cpc&utm_term=tips%20to%20avoid%20fraud%202025&utm_campaign=Bing+CPC+Campaign&c=73942464302290&m=p&k=73942654354964&binterest=&bphysical=65542&bfeedid=&a=B249614&ts=&topic=&upf=&clicktype=&msclkid=9e57df6e12c919de027bb8cb4e5b9081
+
+~ https://www.aura.com/learn/fraud-prevention-tips
+
+~ https://consumer.ftc.gov/consumer-alerts/2024/12/stay-ahead-scammers-2025
+
+~ https://chargebacks911.com/credit-card-fraud-statistics/
+
+~ https://www.security.org/identity-theft/synthetic/
