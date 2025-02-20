@@ -19,6 +19,14 @@
         - [Decision Tree](#Decision-Tree)
         - [KNN](#KNN)
     - [Accuracy and R2 Comparison across 4 models](#Accuracy-and-R2-Comparison-across-4-models)
+    - [Optimization](#Optimization)
+        - [Hyperparameter](#Hyperparameter)
+            - [Untuned Classification](#Untuned-Classification)
+            - [GridSearchCSV Classification](#GridSearchCSV-Classification)
+            - [RandomizedSearchCV Classification](#RandomizedSearchCV-Classification)
+        - [Random UnderSampler](#Random-UnderSampler)
+            - [Under Sampling Count](#Under-Sampling-Count)
+            - [Random UnderSampling Classification](#Random-UnderSampling-Classification)
 - [References](#References)
 
 
@@ -115,6 +123,10 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
   <img src="visuals/dt_cf.png" alt="Decision Tree" width="550" height="350">
 </figure> 
 
+<figure>
+  <img src="visuals/dt_map.png" alt="Decision Tree map">
+</figure> 
+
 <a name="KNN"></a>
 
 #### KNN
@@ -122,6 +134,11 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 <figure>
   <img src="visuals/knn_cf.png" alt="KNN" width="550" height="350">
 </figure> 
+
+<figure>
+  <img src="visuals/knn_graph.png" alt="KNN Accuracy Map" width="500" height="450">
+</figure> 
+
 
 <a name="Accuracy and R2 Comparison across 4 models"></a>
 
@@ -132,6 +149,59 @@ In our fraud prediction project, we adopted a robust ensemble of machine learnin
 | **Score**          |       0.95858       |         0.99999         |      0.99999      |            0.99882           |
 | **R2**             |   0.48440  |    0.99990    | 0.99990 |       0.98536      |
 
+
+<a name="Optimization"></a>
+
+### Optimization
+
+<a name="Hyperparameter"></a>
+
+#### Hyperparameter
+
+<a name="Untuned Classification"></a>
+
+##### Untuned Classification
+
+<figure>
+  <img src="visuals/untuned_classification.png" alt="Untuned Classification" width="450" height="259">
+</figure> 
+
+<a name="GridSearchCSV Classification"></a>
+
+##### GridSearchCSV Classification
+
+<figure>
+  <img src="visuals/gridsearchCV_classification.png" alt="Untuned Classification" width="490" height="390">
+</figure> 
+
+<a name="RandomizedSearchCV Classification"></a>
+
+##### RandomizedSearchCV Classification
+
+<figure>
+  <img src="visuals/randomizedsearchCV_classification.png" alt="Untuned Classification" width="500" height="390">
+</figure>
+
+<a name="Random UnderSampler"></a>
+
+#### Random UnderSampler
+
+<a name="Under Sampling Count"></a>
+
+##### Under Sampling Count
+
+<figure>
+  <img src="visuals/random_undersample_cnt.png" alt="Random UnderSampling Count" width="300" height="200">
+</figure>
+
+
+<a name="Random UnderSampling Classification"></a>
+
+##### Random UnderSampling Classification
+
+<figure>
+  <img src="visuals/undersampling_classification.png" alt="Random UnderSampling Classification" width="450" height="400">
+</figure>
 
 
 <a name="References"></a>
