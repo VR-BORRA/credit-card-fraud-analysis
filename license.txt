@@ -1,0 +1,4 @@
+MIT License
+Apache License 2.0
+GNU General Public License (GPL)
+Creative Commons Licenses
